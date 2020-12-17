@@ -5,3 +5,4 @@ El curso  de Git y Github de Platzi es  lo que me hacia falta para triplicar  mi
 *Todos los comandos de Git
 *El flujo del trabajo en Github
 *El verdadero amor por las buenas práticas 
+*Creado por platzi team 
