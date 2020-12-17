@@ -6,3 +6,8 @@ El curso  de Git y Github de Platzi es  lo que me hacia falta para triplicar  mi
 *El flujo del trabajo en Github
 *El verdadero amor por las buenas práticas 
 *Creado por platzi team 
+<<<<<<< HEAD
+=======
+*Incluye ejemplos en windows, Linux y Mac7
+*Disponible para todas las edades
+>>>>>>> readme-mejorado
